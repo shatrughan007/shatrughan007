@@ -9,7 +9,7 @@
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-# 💫 About Me:
+### 💫 About Me:
 - 👋 Hi, I’m @shatrughan007
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
