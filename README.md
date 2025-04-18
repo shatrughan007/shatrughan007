@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Boruto!!🙋🏽‍♂️</h1> 
+<h1 align="center">Hi there, I'm Shatrughan!!🙋🏽‍♂️</h1> 
 
 
 ## Profile Views
