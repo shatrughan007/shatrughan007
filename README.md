@@ -7,10 +7,9 @@
 
 ---
 <img align="right" alt="MIXED REALITY" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-### 💫 About Me:
+## 💫 About Me:
 - 👋 Hi, I’m @shatrughan007
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
@@ -19,7 +18,7 @@
 
 
 
-### 🌐 Socials:
+## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hl__boruto)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shatrughan_07)
