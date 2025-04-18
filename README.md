@@ -6,6 +6,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{shatrughan007}/count.svg)
 
 ---
+<img align="right" alt="MIXED REALITY" width="400" src="https://i.pinimg.com/originals/45/04/28/4504285f9f12ea09bed8366f05a399d4.gif">
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
